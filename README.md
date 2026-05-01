@@ -1,5 +1,5 @@
 ## Description:
-- Open the program review maps folder to view the various maps I made in ArcGIS Pro for the annual Trachoma Program Review meeting.
+- Open the program review maps folder to view the various maps I made in ArcGIS Pro for the Twenty-Seventh Annual Trachoma Control Program Review.
   
 - These maps show various geographic trends of trachomatous inflammation—follicular (TF) and trachomatous trichiasis (TT) in Amhara, Ethiopia. Several maps also show survey and mass drug administration status.
   
